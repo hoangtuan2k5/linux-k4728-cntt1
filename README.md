@@ -58,12 +58,3 @@ crontab -e
 ```bash
 */5 * * * * /đường/dẫn/tuyệt/đối/tới/scripts/auto_backup.sh
 ```
-
-## Thư mục nộp bài
-
-(Ghi chú dành cho sinh viên - Hãy thay thế/bổ sung các hình ảnh vào trực tiếp README này hoặc lưu thành một thư mục riêng trước khi nộp bài)
-- [ ] Link GitHub repository.
-- [ ] Ảnh chụp cấu trúc thư mục.
-- [ ] Ảnh chụp kết quả chạy script.
-- [ ] Ảnh chụp cấu hình dòng lệnh Cronjob.
-- [ ] Ảnh chụp giao diện Repository GitHub.
